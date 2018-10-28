@@ -15,6 +15,10 @@ namespace Demo_WebAPI_Weather.PresentationLayer
     {
         BusinessLogic _businessLogic;
 
+        /// <summary>
+        /// class constructor
+        /// </summary>
+        /// <param name="businessLogic">business logic object</param>
         public Presenter(BusinessLogic businessLogic)
         {
             _businessLogic = businessLogic;
