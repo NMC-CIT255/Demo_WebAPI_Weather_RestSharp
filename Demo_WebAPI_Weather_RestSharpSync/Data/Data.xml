@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Characters>
+  <Character>
+    <Id>1</Id>
+    <LastName>Flintstone</LastName>
+    <FirstName>Fred</FirstName>
+    <Address>301 Cobblestone Way</Address>
+    <City>Bedrock</City>
+    <State>MI</State>
+    <Zip>70777</Zip>
+    <Age>32</Age>
+    <Gender>MALE</Gender>
+  </Character>
+  <Character>
+    <Id>2</Id>
+    <LastName>Rubble</LastName>
+    <FirstName>Barney</FirstName>
+    <Address>303 Cobblestone Way</Address>
+    <City>Bedrock</City>
+    <State>MI</State>
+    <Zip>70777</Zip>
+    <Age>28</Age>
+    <Gender>MALE</Gender>
+  </Character>
+  <Character>
+    <Id>3</Id>
+    <LastName>Flintstone</LastName>
+    <FirstName>Wilma</FirstName>
+    <Address>301 Cobblestone Way</Address>
+    <City>Bedrock</City>
+    <State>MI</State>
+    <Zip>70777</Zip>
+    <Age>27</Age>
+    <Gender>FEMALE</Gender>
+  </Character>
+  <Character>
+    <Id>4</Id>
+    <LastName>Flintstone</LastName>
+    <FirstName>Pebbles</FirstName>
+    <Address>301 Cobblestone Way</Address>
+    <City>Bedrock</City>
+    <State>MI</State>
+    <Zip>70777</Zip>
+    <Age>1</Age>
+    <Gender>FEMALE</Gender>
+  </Character>
+  <Character>
+    <Id>5</Id>
+    <LastName>Rubble</LastName>
+    <FirstName>Betty</FirstName>
+    <Address>303 Cobblestone Way</Address>
+    <City>Bedrock</City>
+    <State>MI</State>
+    <Zip>70777</Zip>
+    <Age>26</Age>
+    <Gender>MALE</Gender>
+  </Character>
+  <Character>
+    <Id>7</Id>
+    <LastName></LastName>
+    <FirstName>Dino</FirstName>
+    <Address>301 Cobblestone Way</Address>
+    <City>Bedrock</City>
+    <State>MI</State>
+    <Zip>70777</Zip>
+    <Age>7</Age>
+    <Gender>FEMALE</Gender>
+  </Character>
+  <Character>
+    <Id>6</Id>
+    <LastName>Rubble</LastName>
+    <FirstName>Bamm-Bamm</FirstName>
+    <Address>303 Cobblestone Way</Address>
+    <City>Bedrock</City>
+    <State>MI</State>
+    <Zip>70777</Zip>
+    <Age>2</Age>
+    <Gender>MALE</Gender>
+  </Character>
+</Characters>

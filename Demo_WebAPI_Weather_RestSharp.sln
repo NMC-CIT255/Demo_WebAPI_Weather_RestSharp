@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_WebAPI_Weather_Async", "Demo_WebAPI_Weather_Async\Demo_WebAPI_Weather_Async.csproj", "{D91815F8-DEBB-4AE5-A8D6-12B36655A7CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{5B95A418-01A4-494A-815C-EE40745DCA48}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_WebAPI_Weather_RestSharpSync", "Demo_WebAPI_Weather_RestSharpSync\Demo_WebAPI_Weather_RestSharpSync.csproj", "{A73FF992-4CB6-480A-B7C5-0A2E8AB1FE7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91815F8-DEBB-4AE5-A8D6-12B36655A7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91815F8-DEBB-4AE5-A8D6-12B36655A7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91815F8-DEBB-4AE5-A8D6-12B36655A7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91815F8-DEBB-4AE5-A8D6-12B36655A7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73FF992-4CB6-480A-B7C5-0A2E8AB1FE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73FF992-4CB6-480A-B7C5-0A2E8AB1FE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73FF992-4CB6-480A-B7C5-0A2E8AB1FE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73FF992-4CB6-480A-B7C5-0A2E8AB1FE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C02A8991-7FE7-45FD-86DC-D2508BF69410}
+	EndGlobalSection
+EndGlobal
